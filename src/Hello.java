@@ -8,5 +8,7 @@ public class Hello
 		{
 			System.out.println("The client.");
 		}
+		
+		System.out.println("Hello");
 	}
 }
